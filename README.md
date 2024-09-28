@@ -10,3 +10,15 @@
 - Address skewness and ensure data balance.
 * Identify and manage outliers.
 + Resolve date discrepancies for data integrity.
+
+#### Installation
+
+To run this project, you need to install the following packages:
+
+pip install numpy
+pip install pandas
+pip install scikit-learn
+pip install xgboost
+pip install matplotlib
+pip install seaborn
+pip install streamlit
